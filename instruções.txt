@@ -1,0 +1,9 @@
+Uma boa estrutura se baseia em:
+
+-Documentação
+-Código fonte
+-Testes
+
+Ferramentas para auxiliar o desenvolvimento:
+
+-
