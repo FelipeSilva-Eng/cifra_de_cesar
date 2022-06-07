@@ -6,4 +6,14 @@ Uma boa estrutura se baseia em:
 
 Ferramentas para auxiliar o desenvolvimento:
 
--
+-git
+-blue
+-isort
+-autopep8
+
+Checagem:
+-prospector
+
+Facilitador
+-Makefile
+-Git hooks
